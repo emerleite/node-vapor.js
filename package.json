@@ -1,4 +1,4 @@
-{   "name" : "vapor",
+{   "name" : "node-vapor.js",
     "version" : "1.7.1",
     "description" : "Node.JS integration with vapor.js",
     "author": "Emerson Macedo <emerleite@gmail.com>",
