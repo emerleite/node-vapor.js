@@ -1,0 +1,10 @@
+{   "name" : "vapor",
+    "version" : "1.7.1",
+    "description" : "Node.JS integration with vapor.js",
+    "author": "Emerson Macedo <emerleite@gmail.com>",
+    "main": "./node-vapor",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/emerleite/node-vapor.js.git"
+    }
+}
