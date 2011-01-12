@@ -6,6 +6,6 @@ Make sure you have jsdom installed, otherwise, run npm install jsdom
 
 Running
 -------
-node node-vapor
+node node-vapor.js
 
 Open your browser at http://localhost:8171
